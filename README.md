@@ -9,5 +9,6 @@ I'm a software engineering student building full-stack platforms and business sy
 - **Data and integrations:** databases, search, structured imports, and connections that reduce manual work.
 - **Delivery and reliability:** QA, business automation, deployments, and Linux/server management.
 - **Practical AI:** tools that help with specific workflow problems.
+- **Security and machine learning:** building security-focused tools and exploring practical machine-learning applications.
 
 I aim to make complex operations clear for the people using and running the software.
